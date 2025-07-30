@@ -15,8 +15,7 @@ Built as a fun experiment in **interactive design**, **3D integration**, and **s
 ---
 ![Pufferfish Preview](./puffer.png)
 
-🎥 [**Watch Demo**](https://drive.google.com/file/d/1pII0Uyg9gKtczdPYo0Wf8IJ8ZThX60Mu/view?usp=sharing)
-
+🎥 [**Watch Demo**](https://drive.google.com/file/d/1pII0Uyg9gKtczdPYo0Wf8IW8ZThX60Mu/view?usp=sharing).
 ## 🔧 Built With
 
 - [Spline](https://spline.design/)
